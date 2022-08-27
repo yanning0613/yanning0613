@@ -1,4 +1,8 @@
 ### Hi there 👋
+This is Yan Ning Yu from Taiwan.
+
+I am currently pursuing my master's degree in BioE at UC Berkeley.
+
 
 <!--
 **yanning0613/yanning0613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
